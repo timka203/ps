@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\тимур\source\repos\project4\project4\source.cpp(6): warning C4101: q: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project4\project4\source.cpp(6): warning C4101: i: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project4\project4\source.cpp(6): warning C4101: u: неиспользованная локальная переменная
+c:\users\тимур\source\repos\project4\project4\source.cpp(115): warning C4101: f: неиспользованная локальная переменная
+  Project4.vcxproj -> C:\Users\Тимур\source\repos\Project4\Debug\Project4.exe
